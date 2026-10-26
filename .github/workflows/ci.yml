@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: ubicloud-standard-4-ubuntu-2404
 
     steps:
       - name: Checkout code
